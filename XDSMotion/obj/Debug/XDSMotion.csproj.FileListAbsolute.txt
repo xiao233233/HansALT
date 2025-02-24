@@ -17,3 +17,13 @@ D:\Program Files\OneDrive\OLD\Hans ALT By_XDS .NET Framework\XDSMotion\obj\Debug
 D:\Program Files\OneDrive\OLD\Hans ALT By_XDS .NET Framework\XDSMotion\obj\Debug\XDSMotion.csproj.CoreCompileInputs.cache
 D:\Program Files\OneDrive\OLD\Hans ALT By_XDS .NET Framework\XDSMotion\obj\Debug\XDSMotion.dll
 D:\Program Files\OneDrive\OLD\Hans ALT By_XDS .NET Framework\XDSMotion\obj\Debug\XDSMotion.pdb
+D:\GitCode\HansALT\XDSMotion\bin\Debug\XDSMotion.dll.config
+D:\GitCode\HansALT\XDSMotion\bin\Debug\XDSMotion.dll
+D:\GitCode\HansALT\XDSMotion\bin\Debug\XDSMotion.pdb
+D:\GitCode\HansALT\XDSMotion\obj\Debug\XDSMotion.csproj.AssemblyReference.cache
+D:\GitCode\HansALT\XDSMotion\obj\Debug\XDSMotion.Form1.resources
+D:\GitCode\HansALT\XDSMotion\obj\Debug\XDSMotion.Properties.Resources.resources
+D:\GitCode\HansALT\XDSMotion\obj\Debug\XDSMotion.csproj.GenerateResource.cache
+D:\GitCode\HansALT\XDSMotion\obj\Debug\XDSMotion.csproj.CoreCompileInputs.cache
+D:\GitCode\HansALT\XDSMotion\obj\Debug\XDSMotion.dll
+D:\GitCode\HansALT\XDSMotion\obj\Debug\XDSMotion.pdb

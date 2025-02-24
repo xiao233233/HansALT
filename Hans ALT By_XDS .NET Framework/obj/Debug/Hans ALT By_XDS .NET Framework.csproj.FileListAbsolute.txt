@@ -36,3 +36,22 @@ D:\Program Files\OneDrive\OLD\Hans ALT By_XDS .NET Framework\Hans ALT By_XDS .NE
 D:\Program Files\OneDrive\OLD\Hans ALT By_XDS .NET Framework\Hans ALT By_XDS .NET Framework\obj\Debug\Hans ALT.9A0125AD.Up2Date
 D:\Program Files\OneDrive\OLD\Hans ALT By_XDS .NET Framework\Hans ALT By_XDS .NET Framework\obj\Debug\Hans_ALT_By_XDS.NET_Framework.exe
 D:\Program Files\OneDrive\OLD\Hans ALT By_XDS .NET Framework\Hans ALT By_XDS .NET Framework\obj\Debug\Hans_ALT_By_XDS.NET_Framework.pdb
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\obj\Debug\Hans ALT By_XDS .NET Framework.csproj.AssemblyReference.cache
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\obj\Debug\Hans_ALT_By_XDS.NET_Framework.Controls.IOControl.resources
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\obj\Debug\Hans_ALT_By_XDS.NET_Framework.FormHome.resources
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\obj\Debug\Hans_ALT_By_XDS.NET_Framework.FormMessageShow.resources
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\obj\Debug\Hans_ALT_By_XDS.NET_Framework.FormMotion.resources
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\obj\Debug\Hans_ALT_By_XDS.NET_Framework.Properties.Resources.resources
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\obj\Debug\Hans ALT By_XDS .NET Framework.csproj.GenerateResource.cache
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\obj\Debug\Hans ALT By_XDS .NET Framework.csproj.CoreCompileInputs.cache
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\obj\Debug\Hans_ALT_By_XDS.NET_Framework.exe
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\obj\Debug\Hans_ALT_By_XDS.NET_Framework.pdb
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\bin\Debug\Hans_ALT_By_XDS.NET_Framework.exe.config
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\bin\Debug\Hans_ALT_By_XDS.NET_Framework.exe
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\bin\Debug\Hans_ALT_By_XDS.NET_Framework.pdb
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\bin\Debug\UserControl_XDS.dll
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\bin\Debug\XDSMotion.dll
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\bin\Debug\UserControl_XDS.pdb
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\bin\Debug\XDSMotion.pdb
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\bin\Debug\XDSMotion.dll.config
+D:\GitCode\HansALT\Hans ALT By_XDS .NET Framework\obj\Debug\Hans ALT.9A0125AD.Up2Date
