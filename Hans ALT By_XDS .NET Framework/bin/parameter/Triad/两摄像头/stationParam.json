@@ -1,0 +1,632 @@
+[
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "1",
+            "StationName": "Triad",
+            "TraceLineId": "Line11+Line22+Line33",
+            "TraceSoftName": "Soft1+Soft2+Soft3",
+            "TraceStationId": "ST1+ST2+ST3",
+            "TraceURL": "URL1+URL2+URL3",
+            "UploadRecipe": "1+0+2"
+        },
+        "AC": [
+            {
+                "controlFlow": "0",
+                "onIO": "33"
+            }
+        ],
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "0",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "1",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "0",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "1",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "2",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.101",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "Rcam",
+                        "paramId": "St1Dev1Test1",
+                        "traceName": "rcamT+rcamB",
+                        "uiName": "Rcam"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.102",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkA",
+                        "paramId": "St1Dev2Test1",
+                        "traceName": "spkA",
+                        "uiName": "SPK-A"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.103",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkB",
+                        "paramId": "St1Dev3Test1",
+                        "traceName": "spkB",
+                        "uiName": "SPK-B"
+                    }
+                ],
+                "testFlow": "1"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    },
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "2",
+            "StationName": "Triad",
+            "TraceLineId": "Line11+Line22+Line33",
+            "TraceSoftName": "Soft1+Soft2+Soft3",
+            "TraceStationId": "ST1+ST2+ST3",
+            "TraceURL": "URL1+URL2+URL3",
+            "UploadRecipe": "1+0+2"
+        },
+        "AC": [
+            {
+                "controlFlow": "0",
+                "onIO": "35"
+            }
+        ],
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "2",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "3",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "4",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "5",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "6",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.104",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "Rcam",
+                        "paramId": "St2Dev1Test1",
+                        "traceName": "rcamT+rcamB",
+                        "uiName": "Rcam"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.105",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkA",
+                        "paramId": "St2Dev2Test1",
+                        "traceName": "spkA",
+                        "uiName": "SPK-A"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.106",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkB",
+                        "paramId": "St2Dev3Test1",
+                        "traceName": "spkB",
+                        "uiName": "SPK-B"
+                    }
+                ],
+                "testFlow": "1"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    },
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "3",
+            "StationName": "Housing",
+            "TraceLineId": "Line11",
+            "TraceSoftName": "Soft1",
+            "TraceStationId": "ST1",
+            "TraceURL": "URL1",
+            "UploadRecipe": "1+0+2"
+        },
+        "AC": [
+            {
+                "controlFlow": "0",
+                "onIO": "37"
+            }
+        ],
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "4",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "5",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "8",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "9",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "10",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.107",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "Rcam",
+                        "paramId": "St3Dev1Test1",
+                        "traceName": "rcamT+rcamB",
+                        "uiName": "Rcam"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.118",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkA",
+                        "paramId": "St3Dev2Test1",
+                        "traceName": "spkA",
+                        "uiName": "SPK-A"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.119",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkB",
+                        "paramId": "St3Dev3Test1",
+                        "traceName": "spkB",
+                        "uiName": "SPK-B"
+                    }
+                ],
+                "testFlow": "1"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    },
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "4",
+            "StationName": "RcamFa",
+            "TraceLineId": "Line11",
+            "TraceSoftName": "Soft1",
+            "TraceStationId": "ST1",
+            "TraceURL": "URL1",
+            "UploadRecipe": "3"
+        },
+        "AC": [
+            {
+                "controlFlow": "0",
+                "onIO": "39"
+            }
+        ],
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "6",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "7",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "0",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "1",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "2",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.110",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "Rcam",
+                        "paramId": "St4Dev1Test1",
+                        "traceName": "rcamT+rcamB",
+                        "uiName": "Rcam"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.111",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkA",
+                        "paramId": "St4Dev2Test1",
+                        "traceName": "spkA",
+                        "uiName": "SPK-A"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.112",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkB",
+                        "paramId": "St4Dev3Test1",
+                        "traceName": "spkB",
+                        "uiName": "SPK-B"
+                    }
+                ],
+                "testFlow": "1"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    },
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "5",
+            "StationName": "Triad",
+            "TraceLineId": "Line11+Line22+Line33",
+            "TraceSoftName": "Soft1+Soft2+Soft3",
+            "TraceStationId": "ST1+ST2+ST3",
+            "TraceURL": "URL1+URL2+URL3",
+            "UploadRecipe": "1+0+2"
+        },
+        "AC": [
+            {
+                "controlFlow": "0",
+                "onIO": "41"
+            }
+        ],
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "8",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "9",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "4",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "5",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "6",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.113",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "Rcam",
+                        "paramId": "St5Dev1Test1",
+                        "traceName": "rcamT+rcamB",
+                        "uiName": "Rcam"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.114",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkA",
+                        "paramId": "St5Dev2Test1",
+                        "traceName": "spkA",
+                        "uiName": "SPK-A"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.115",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkB",
+                        "paramId": "St5Dev3Test1",
+                        "traceName": "spkB",
+                        "uiName": "SPK-B"
+                    }
+                ],
+                "testFlow": "1"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    },
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "6",
+            "StationName": "Triad",
+            "TraceLineId": "Line11+Line22+Line33",
+            "TraceSoftName": "Soft1+Soft2+Soft3",
+            "TraceStationId": "ST1+ST2+ST3",
+            "TraceURL": "URL1+URL2+URL3",
+            "UploadRecipe": "1+0+2"
+        },
+        "AC": [
+            {
+                "controlFlow": "0",
+                "onIO": "43"
+            }
+        ],
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "10",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "11",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "8",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "9",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "10",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.116",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "Rcam",
+                        "paramId": "St6Dev1Test1",
+                        "traceName": "rcamT+rcamB",
+                        "uiName": "Rcam"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.117",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkA",
+                        "paramId": "St6Dev2Test1",
+                        "traceName": "spkA",
+                        "uiName": "SPK-A"
+                    }
+                ],
+                "testFlow": "0"
+            },
+            {
+                "connectParam": "192.168.1.118",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "spkB",
+                        "paramId": "St6Dev3Test1",
+                        "traceName": "spkB",
+                        "uiName": "SPK-B"
+                    }
+                ],
+                "testFlow": "1"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    }
+]

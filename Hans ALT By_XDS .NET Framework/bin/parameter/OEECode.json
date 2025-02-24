@@ -1,0 +1,36 @@
+[	{
+		"iCode":10001007,
+		"strENDetails":"wait for material",
+		"strZHDetails":"待机，等待物料"
+	},
+	{
+		"iCode":10001001,
+		"strENDetails":"Regular maintenance",
+		"strZHDetails":"定期保养，包含密封圈维护"
+	},
+	{
+		"iCode":10001002,
+		"strENDetails":"Equipment error",
+		"strZHDetails":"设备异常"
+	},
+	{
+		"iCode":10001003,
+		"strENDetails":"meal",
+		"strZHDetails":"就餐时间"
+	},
+	{
+		"iCode":10001004,
+		"strENDetails":"production",
+		"strZHDetails":"产品原因"
+	},
+	{
+		"iCode":10001005,
+		"strENDetails":"rest",
+		"strZHDetails":"休息"
+	},
+	{
+		"iCode":10001006,
+		"strENDetails":"shift turnover",
+		"strZHDetails":"换班/切换产品"
+	}
+]

@@ -1,0 +1,512 @@
+[
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "1",
+            "StationName": "BG",
+            "TraceLineId": "Line11",
+            "TraceSoftName": "Soft1",
+            "TraceStationId": "ST1",
+            "TraceURL": "URL1",
+            "UploadRecipe": "1"
+        },
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "0",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "1",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                },
+                {
+                    "axisId": "12",
+                    "axisType": "Z2",
+                    "cardId": "1001",
+                    "division": "131072"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "0",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "1",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "2",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "3",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.101",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "BG",
+                        "paramId": "St1Dev1Test1",
+                        "traceName": "bg_splits",
+                        "uiName": "BG"
+                    }
+                ],
+                "testFlow": "0"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    },
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "2",
+            "StationName": "BG",
+            "TraceLineId": "Line11",
+            "TraceSoftName": "Soft1",
+            "TraceStationId": "ST1",
+            "TraceURL": "URL1",
+            "UploadRecipe": "1"
+        },
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "2",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "3",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                },
+                {
+                    "axisId": "13",
+                    "axisType": "Z2",
+                    "cardId": "1001",
+                    "division": "131072"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "4",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "5",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "6",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "7",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.102",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "BG",
+                        "paramId": "St2Dev1Test1",
+                        "traceName": "bg_splits",
+                        "uiName": "BG"
+                    }
+                ],
+                "testFlow": "0"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    },
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "3",
+            "StationName": "BG",
+            "TraceLineId": "Line11",
+            "TraceSoftName": "Soft1",
+            "TraceStationId": "ST1",
+            "TraceURL": "URL1",
+            "UploadRecipe": "1"
+        },
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "4",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "5",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                },
+                {
+                    "axisId": "14",
+                    "axisType": "Z2",
+                    "cardId": "1001",
+                    "division": "131072"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "8",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "9",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "10",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "11",
+                    "axisType": "S",
+                    "cardId": "0",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.103",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "BG",
+                        "paramId": "St3Dev1Test1",
+                        "traceName": "bg_splits",
+                        "uiName": "BG"
+                    }
+                ],
+                "testFlow": "0"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    },
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "4",
+            "StationName": "BG",
+            "TraceLineId": "Line11",
+            "TraceSoftName": "Soft1",
+            "TraceStationId": "ST1",
+            "TraceURL": "URL1",
+            "UploadRecipe": "1"
+        },
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "6",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "7",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                },
+                {
+                    "axisId": "15",
+                    "axisType": "Z2",
+                    "cardId": "1001",
+                    "division": "131072"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "0",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "1",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "2",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "3",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.104",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "BG",
+                        "paramId": "St4Dev1Test1",
+                        "traceName": "bg_splits",
+                        "uiName": "BG"
+                    }
+                ],
+                "testFlow": "0"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    },
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "5",
+            "StationName": "BG",
+            "TraceLineId": "Line11",
+            "TraceSoftName": "Soft1",
+            "TraceStationId": "ST1",
+            "TraceURL": "URL1",
+            "UploadRecipe": "1"
+        },
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "8",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "9",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                },
+                {
+                    "axisId": "16",
+                    "axisType": "Z2",
+                    "cardId": "1001",
+                    "division": "131072"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "4",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "5",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "6",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "7",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.105",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "BG",
+                        "paramId": "St5Dev1Test1",
+                        "traceName": "bg_splits",
+                        "uiName": "BG"
+                    }
+                ],
+                "testFlow": "0"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    },
+    {
+        "ABCInfo": {
+            "Enable": "true",
+            "StationId": "6",
+            "StationName": "BG",
+            "TraceLineId": "Line11",
+            "TraceSoftName": "Soft1",
+            "TraceStationId": "ST1",
+            "TraceURL": "URL1",
+            "UploadRecipe": "1"
+        },
+        "Axis": {
+            "Servo": [
+                {
+                    "axisId": "10",
+                    "axisType": "Y",
+                    "cardId": "1001",
+                    "division": "6553.6"
+                },
+                {
+                    "axisId": "11",
+                    "axisType": "Z1",
+                    "cardId": "1001",
+                    "division": "32768"
+                },
+                {
+                    "axisId": "17",
+                    "axisType": "Z2",
+                    "cardId": "1001",
+                    "division": "131072"
+                }
+            ],
+            "Stepper": [
+                {
+                    "axisId": "8",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "9",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "10",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                },
+                {
+                    "axisId": "11",
+                    "axisType": "S",
+                    "cardId": "1",
+                    "division": "1000"
+                }
+            ]
+        },
+        "Device": [
+            {
+                "connectParam": "192.168.1.106",
+                "deviceType": "F28Light",
+                "measureInfo": [
+                    {
+                        "itemName": "BG",
+                        "paramId": "St6Dev1Test1",
+                        "traceName": "bg_splits",
+                        "uiName": "BG"
+                    }
+                ],
+                "testFlow": "0"
+            }
+        ],
+        "SealInfo": [
+            {
+                "limit": "2500",
+                "name": "密封圈1"
+            },
+            {
+                "limit": "2500",
+                "name": "密封圈2"
+            }
+        ]
+    }
+]

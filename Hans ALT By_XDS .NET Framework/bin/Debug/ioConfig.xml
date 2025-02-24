@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--备注说明，type = 0 表示输出， type = 1 表示输入/-->
+
+<config>
+  <!--输入-->
+  <in name="紧急停止" nDeviceID="0"/>
+  <in name="设备复位" nDeviceID="1"/>
+  <in name="设备启动" nDeviceID="2"/>
+  <in name="设备停止" nDeviceID="3"/>
+  <in name="备用" nDeviceID="4"/>
+  <in name="备用" nDeviceID="5"/>
+  <in name="总压力" nDeviceID="6"/>
+  <in name="安全门" nDeviceID="7"/>
+  <in name="工位1启动" nDeviceID="8"/>
+  <in name="工位2启动" nDeviceID="9"/>
+  <in name="工位3启动" nDeviceID="10"/>
+  <in name="工位4启动" nDeviceID="11"/>
+  <in name="工位5启动" nDeviceID="12"/>
+  <in name="工位6启动" nDeviceID="13"/>
+  <in name="备用" nDeviceID="14"/>
+  <in name="备用" nDeviceID="15"/>
+  <in name="工位1真空压力到达" nDeviceID="16"/>
+  <in name="工位2真空压力到达" nDeviceID="17"/>
+  <in name="工位3真空压力到达" nDeviceID="18"/>
+  <in name="工位4真空压力到达" nDeviceID="19"/>
+  <in name="工位5真空压力到达" nDeviceID="20"/>
+  <in name="工位6真空压力到达" nDeviceID="21"/>
+  <in name="备用" nDeviceID="22"/>
+  <in name="备用" nDeviceID="23"/>
+  <in name="工位1安全光栅" nDeviceID="24"/>
+  <in name="工位2安全光栅" nDeviceID="25"/>
+  <in name="工位3安全光栅" nDeviceID="26"/>
+  <in name="工位4安全光栅" nDeviceID="27"/>
+  <in name="工位5安全光栅" nDeviceID="28"/>
+  <in name="工位6安全光栅" nDeviceID="29"/>
+  <in name="备用" nDeviceID="30"/>
+  <in name="备用" nDeviceID="31"/> 
+  <in name="备用" nDeviceID="32"/>
+  <in name="备用" nDeviceID="33"/>
+  <in name="备用" nDeviceID="34"/>
+  <in name="备用" nDeviceID="35"/>
+  <in name="备用" nDeviceID="36"/>
+  <in name="备用" nDeviceID="37"/>
+  <in name="备用" nDeviceID="38"/>
+  <in name="备用" nDeviceID="39"/>
+  <in name="备用" nDeviceID="40"/>
+  <in name="备用" nDeviceID="41"/> 
+  <in name="备用" nDeviceID="42"/>
+  <in name="备用" nDeviceID="43"/>
+  <in name="备用" nDeviceID="44"/>
+  <in name="备用" nDeviceID="45"/>
+  <in name="备用" nDeviceID="46"/>
+  <in name="备用" nDeviceID="47"/>
+
+  <!--输出-->
+  <out name="三色灯-黄灯" nDeviceID="0" />
+  <out name="三色灯-绿灯" nDeviceID="1" />
+  <out name="三色灯-红灯" nDeviceID="2" />
+  <out name="三色灯-蜂鸣器" nDeviceID="3"/>
+  <out name="工位1-NG灯" nDeviceID="4"/>
+  <out name="工位1-OK灯" nDeviceID="5"/>
+  <out name="工位2-NG灯" nDeviceID="6"/>
+  <out name="工位2-OK灯" nDeviceID="7"/>
+  <out name="工位3-NG灯" nDeviceID="8"/>
+  <out name="工位3-OK灯" nDeviceID="9"/>
+  <out name="工位4-NG灯" nDeviceID="10"/>
+  <out name="工位4-OK灯" nDeviceID="11"/>
+  <out name="工位5-NG灯" nDeviceID="12"/>
+  <out name="工位5-OK灯" nDeviceID="13"/>
+  <out name="工位6-NG灯" nDeviceID="14"/>
+  <out name="工位6-OK灯" nDeviceID="15"/>
+  <out name="工位1真空阀" nDeviceID="16"/>
+  <out name="工位2真空阀" nDeviceID="17"/>
+  <out name="工位3真空阀" nDeviceID="18"/>
+  <out name="工位4真空阀" nDeviceID="19"/>
+  <out name="工位5真空阀" nDeviceID="20"/>
+  <out name="工位6真空阀" nDeviceID="21"/>
+  <out name="备用" nDeviceID="22"/>
+  <out name="备用" nDeviceID="23"/>
+  <out name="备用" nDeviceID="24"/>
+  <out name="备用" nDeviceID="25"/>
+  <out name="备用" nDeviceID="26"/>
+  <out name="备用" nDeviceID="27"/>
+  <out name="备用" nDeviceID="28"/>
+  <out name="备用" nDeviceID="29"/>
+  <out name="备用" nDeviceID="30"/>
+  <out name="备用" nDeviceID="31"/>
+  
+  <out name="工位1气缸" nDeviceID="32"/>
+  <out name="工位1气缸" nDeviceID="33"/>
+  <out name="工位2气缸" nDeviceID="34"/>
+  <out name="工位2气缸" nDeviceID="35"/>
+  <out name="工位3气缸" nDeviceID="36"/>
+  <out name="工位3气缸" nDeviceID="37"/>
+  <out name="工位4气缸" nDeviceID="38"/>
+  <out name="工位4气缸" nDeviceID="39"/>
+  <out name="工位5气缸" nDeviceID="40"/>
+  <out name="工位5气缸" nDeviceID="41"/> 
+  <out name="工位6气缸" nDeviceID="42"/>
+  <out name="工位6气缸" nDeviceID="43"/>
+  <out name="备用" nDeviceID="44"/>
+  <out name="备用" nDeviceID="45"/>
+  <out name="备用" nDeviceID="46"/>
+  <out name="备用" nDeviceID="47"/>
+</config>
