@@ -15,6 +15,13 @@ namespace Hans_ALT_By_XDS.NET_Framework
 {
     public partial class FormHome : Form
     {
+        #region 引用叶明林代码
+        /// <summary>
+        /// 窗体对象实例,窗口唯一
+        /// </summary>
+        private static FormHome _instance;
+        private static object obj = new object();
+
         public FormHome()
         {
             InitializeComponent();
@@ -39,12 +46,6 @@ namespace Hans_ALT_By_XDS.NET_Framework
             }
             #endregion          
         }
-        #region 引用叶明林代码
-        /// <summary>
-        /// 窗体对象实例,窗口唯一
-        /// </summary>
-        private static FormHome _instance;
-        private static object obj = new object();
         public static FormHome Instance
         {
             get
